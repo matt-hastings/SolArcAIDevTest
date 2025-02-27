@@ -1,0 +1,59 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+machineLearningWorkflow = new Template.Microlesson {
+  friendlyName = "Machine Learning Workflow"
+  dirName = "machine-learning-workflow"
+  type = "Content"
+  videoUrl = ""
+}
+
+problemDefinition = new Template.Microlesson {
+  friendlyName = "Refresher on Steps 1-4 of the ML Workflow"
+  dirName = "problem-definition"
+  type = "Content"
+  videoUrl = ""
+}
+
+trainTestSplitting = new Template.Microlesson {
+  friendlyName = "Train-Test Splitting"
+  dirName = "train-test-splitting"
+  type = "Content"
+  videoUrl = ""
+}
+
+biasVarianceTradeoff = new Template.Microlesson {
+  friendlyName = "Bias-Variance Tradeoff"
+  dirName = "bias-variance-tradeoff"
+  type = "Content"
+  videoUrl = ""
+}
+
+crossValidation = new Template.Microlesson {
+  friendlyName = "Cross Validation"
+  dirName = "cross-validation"
+  type = "Content"
+  videoUrl = ""
+}
+
+modelMonitoring = new Template.Microlesson {
+  friendlyName = "Model Monitoring"
+  dirName = "model-monitoring"
+  type = "Content"
+  videoUrl = ""
+}
+
+challengesInMLProjects = new Template.Microlesson {
+  friendlyName = "Challenges in ML Projects"
+  dirName = "challenges-in-ml-projects"
+  type = "Content"
+  videoUrl = ""
+}
